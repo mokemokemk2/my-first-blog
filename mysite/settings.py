@@ -25,7 +25,7 @@ SECRET_KEY = 'i=znxr1shpfo)s&yl(2*q)&ks=s3v_v_lltw^lhc^2_)q7a2jq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'djangolearn.pythonanywhere.com']
 
 
 # Application definition
